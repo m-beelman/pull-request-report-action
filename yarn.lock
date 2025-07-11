@@ -1697,12 +1697,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:24.0.8":
-  version: 24.0.8
-  resolution: "@types/node@npm:24.0.8"
+"@types/node@npm:24.0.13":
+  version: 24.0.13
+  resolution: "@types/node@npm:24.0.13"
   dependencies:
     undici-types: ~7.8.0
-  checksum: 78a7af615a543599af1280f087c204c987a265121d656060352db0f80bc1e55c90abae1d007732db5dda19f77dfb196ed29bdc4a9966042c2d44023503fd52aa
+  checksum: a98c3c7979e3c17e2853af4b5c4adfb0cbeaf3747a85bc349048ec068cf16d2a96186e005b76ad05f8f533f9b067f499e45ff0296dab0111297af634f71c792c
   languageName: node
   linkType: hard
 
@@ -4911,7 +4911,7 @@ __metadata:
     "@tsconfig/node20": 20.1.6
     "@types/jest": 30.0.0
     "@types/js-yaml": ^4.0.9
-    "@types/node": 24.0.8
+    "@types/node": 24.0.13
     "@typescript-eslint/eslint-plugin": 8.35.0
     "@typescript-eslint/parser": 8.35.0
     "@vercel/ncc": 0.38.3
